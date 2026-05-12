@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="Assets.xcassets/AppLogo.imageset/logo.png" alt="Chroma Echo app icon" width="128" />
+  <p align="center">
+  <img src="logo.png" alt="Chroma Echo Logo" width="120">
+</p>
 
   <h1>Chroma Echo</h1>
 
