@@ -1,4 +1,3 @@
-@ -0,0 +1,150 @@
 <div align="center">
   <img src="Assets.xcassets/AppLogo.imageset/logo.png" alt="Chroma Echo app icon" width="128" />
 
