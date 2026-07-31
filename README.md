@@ -1,16 +1,15 @@
 <div align="center">
-  <p align="center">
-  <img src="logo.png" alt="Chroma Echo Logo" width="120">
-</p>
+  <img src="logo.png" alt="Huemora app icon" width="128" />
 
-  <h1>Chroma Echo</h1>
+  <h1>Huemora</h1>
 
   <p>
-    <strong>A modern color memory game for iPhone.</strong><br />
+    <strong>See a color once. Rebuild it from memory.</strong><br />
     See the color. Remember the tone. Match it as closely as you can.
   </p>
 
   <p>
+    <a href="https://apps.apple.com/app/id6763542973"><strong>View on the App Store</strong></a> •
     <a href="#features">Features</a> •
     <a href="#game-modes">Game Modes</a> •
     <a href="#premium">Premium</a> •
@@ -23,7 +22,7 @@
 
 ## About The Game
 
-**Chroma Echo**, localized in Turkish as **Renk Hafızası**, is a color memory game built around focus, visual perception, and precise shade matching.
+**Huemora** is a color memory game built around focus, visual perception, and precise shade matching.
 
 The game shows you a color tone for a short time. Then the color disappears, and you use the in-game palette to recreate the closest possible shade. Your result is measured as a match percentage.
 
@@ -100,7 +99,7 @@ Rewarded hint ads are optional and user-initiated. They remain separate from sta
 
 ## Game Center
 
-Game Center is optional. You can play Chroma Echo without signing in.
+Game Center is optional. You can play Huemora without signing in.
 
 Game Center is used for:
 
@@ -114,7 +113,7 @@ The app does not use Game Center as an automatic cloud save system.
 
 ## Privacy
 
-Chroma Echo is designed so the core game can be played without creating an account.
+Huemora is designed so the core game can be played without creating an account.
 
 The app may use:
 
@@ -139,13 +138,13 @@ If you need help, please include:
 - A short description of the issue.
 - A screenshot or screen recording if possible.
 
-You can contact the developer through the support/contact information available on the App Store product page.
+Email: [sahinmuratr@gmail.com](mailto:sahinmuratr@gmail.com)
 
 ---
 
 ## Türkçe
 
-**Renk Hafızası**, ekranda kısa süre gösterilen renk tonunu hatırlayıp oyun içindeki renk paletiyle en yakın tonu yakalamaya çalıştığın modern bir hafıza oyunudur.
+**Huemora**, ekranda kısa süre gösterilen renk tonunu hatırlayıp oyun içindeki renk paletiyle en yakın tonu yakalamaya çalıştığın modern bir renk hafızası oyunudur.
 
 Color Quest haritasında ilerleyebilir, tek renkli görevleri tamamlayabilir, sıralı renkleri hatırlayabilir, şekil ve renk eşleşmelerini çözebilir, Solo/Duo/Party modlarında oynayabilir ve Game Center liderlik tablosunda ilerlemeni takip edebilirsin.
 
