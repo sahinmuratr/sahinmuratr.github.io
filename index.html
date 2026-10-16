@@ -397,6 +397,30 @@
         grid-template-columns: 1fr;
       }
     }
+
+    .cratewick-link {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      margin-top: 10px;
+    }
+
+    .cratewick-link img {
+      flex: 0 0 64px;
+      width: 64px;
+      height: 64px;
+      border-radius: 15px;
+    }
+
+    .cratewick-link strong,
+    .cratewick-link span {
+      display: block;
+    }
+
+    .cratewick-link strong { font-size: 20px; }
+    .cratewick-link .cratewick-description { color: var(--muted); line-height: 1.6; margin-top: 4px; }
+    .cratewick-link .cratewick-action { color: var(--cyan); font-weight: 800; margin-top: 6px; }
+    .cratewick-link:focus-visible { outline: 3px solid var(--cyan); outline-offset: 4px; }
   </style>
 </head>
 <body>
@@ -416,6 +440,17 @@
   </header>
 
   <main id="top">
+
+    <aside class="page" aria-label="More games">
+      <a class="card cratewick-link" href="/cratewick/">
+        <img src="/cratewick/assets/app-icon.webp" width="64" height="64" alt="" />
+        <div>
+          <strong>Cratewick</strong>
+          <span class="cratewick-description">A parcel-routing puzzle for iPhone.</span>
+          <span class="cratewick-action">Explore the game <span lang="tr">Oyunu keşfet</span></span>
+        </div>
+      </a>
+    </aside>
     <section class="page hero">
       <div>
         <span class="eyebrow">Color memory game for iPhone</span>
